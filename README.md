@@ -2,6 +2,8 @@
 
 Using OpenAI's Whisper for speech-to-text and ChatGPT generated code for converting Whisper output to SRT format captions.
 
+The Whisper library already supports SRT formatting but this was more fun to ask ChatGPT to do it.
+
 ## Quickstart
 
 Currently directly captioning video files is not supported yet and assumes the input file is a mp3 file.
